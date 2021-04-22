@@ -1,6 +1,6 @@
 import sys
 
-
+#dd
 def cyclic_shift(x, y, z):
     cn = 0
     cnt = 0
